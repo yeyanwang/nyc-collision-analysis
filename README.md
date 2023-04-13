@@ -1,10 +1,12 @@
-# NYC Vehicle Collision WebApp
+# NYC Vehicle Collision WebApp - V2
 
 ## Project Description 
 
 Car accidents are a significant public safety concern, resulting in thousands of injuries and fatalities every year. In New York, the problem is particularly severe, with hundreds of thousands of accidents reported annually. This dataset offers a comprehensive view of car accidents in New York, including location, time of day, and number of persons injured.
 
 The project's primary goal is to analyze this data and gain insights into the factors contributing to car accidents, while especially identifying areas where collision frequency is high and more safety measures are needed. The ultimate objective is to establish a more comprehensive understanding of car accidents in New York, promote safer driving practices, and reduce the number of accidents in the city.
+
+   **This is v2 of the dashboard, see [v1 here](https://github.com/yashkansal97/nyc-traffic-collisions-analysis)**
 
 ## Built with
 - Python
