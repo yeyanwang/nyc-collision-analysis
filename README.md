@@ -27,18 +27,19 @@ Make sure you have installed all of the following prerequisites on your developm
         
 - Your favoriate code editor (e.g. VScode, etc.)
 - Your favoriate browser (e.g. Google Chrome, Firefox, etc.)
-
+- Get a mapbox API key
 
 **Installation**
 - Clone this repo and save it in your local directory 
 
     `git clone https://github.com/yeyanwang/nyc-traffic-collisions-analysis.git`
 
-- Open the repo in a code editor 
+- Open the repo in a code editor, add a `config.js` file inside of `static/js/` folder
 - Start Flask app by running the following code in command prompt
 
     `python app.py`
     
+  
 - Visit [localhost: 5000](http://localhost:5000/) in your browser
 
 
